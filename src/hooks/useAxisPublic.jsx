@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const AxisPublic = axios.create({
-    baseURL:'http://localhost:5000'
+    baseURL:'https://alim-world-server.vercel.app/'
 })
 
 const useAxisPublic = () => {

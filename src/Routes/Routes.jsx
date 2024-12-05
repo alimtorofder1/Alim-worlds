@@ -57,7 +57,7 @@ import Payment from "../pages/Dashboard/Payment/Payment";
         {
          path :'/productDetails/:id',
          element:<PrivateRoute><ProductDetails></ProductDetails></PrivateRoute>,
-         loader:({params}) => fetch(`http://localhost:5000/product/${params.id}`)
+         loader:({params}) => fetch(`https://alim-world-server.vercel.app/product/${params.id}`)
          
         },
         {
@@ -130,7 +130,7 @@ import Payment from "../pages/Dashboard/Payment/Payment";
          {
             path: 'updateItem/:id',
             element:<AdminRoute><UpdateItem></UpdateItem></AdminRoute>,
-            loader: ({params}) => fetch(`http://localhost:5000/product/${params.id}`)
+            loader: ({params}) => fetch(`https://alim-world-server.vercel.app/product/${params.id}`)
          },
          {
             path: 'users',

@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import useAuth from "./useAuth";
 
  const axiosSecore=axios.create({
-    baseURL:'http://localhost:5000'
+    baseURL:'https://alim-world-server.vercel.app/'
 })
 const useAxiosSecore = () => {
     const navigate = useNavigate();
