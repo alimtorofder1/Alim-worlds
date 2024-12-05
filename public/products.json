@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "name": "Table Lamp",
+        "description": "Highlights Water Capacity- 560ml Spray Volume- 30-60ml/H Product Size- 162*162*141 Led Color- Yellow & Blue Remote Control- Yes",
+        "image": "https://i.ibb.co.com/cYYLQ5j/882024153844.webp",
+        "category": "lamp",
+        "oldprice" : 2500,
+        "price": 2000
+    },
+    {
+        "id": 2,
+        "name": "Watch",
+        "description": "Highlights Water Capacity- 560ml Spray Volume- 30-60ml/H Product Size- 162*162*141 Led Color- Yellow & Blue Remote Control- Yes",
+        "image": "https://i.ibb.co.com/Vgpn3ZG/images-37.webp",
+        "category": "Watch",
+        "oldprice" : 2700,
+        "price": 2100 
+    },
+    {
+        "id": 3,
+        "name": "Lava Humidifier",
+        "description": "Highlights Water Capacity- 560ml Spray Volume- 30-60ml/H Product Size- 162*162*141 Led Color- Yellow & Blue Remote Control- Yes",
+        "image": "https://i.ibb.co.com/kBDxJC1/images-7.webp",
+        "category": "offer",
+        "oldprice" : 150,
+        "price": 1990
+    },
+    {
+        "id": 4,
+        "name": "3D circle lamp",
+        "description": "• Material: Acrylic • Colour: Luminous White • Power: 3W • Port: USB • Light: LED • Voltage: 5V • Size: 180x140mm/7.1x5.5inch",
+        "image": "https://i.ibb.co.com/Cb4RBtk/71y-Id-AFUqg-L-AC-UF894-1000-QL80-FMwebp.webp",
+        "category": "lamp",
+        "oldprice" : 900,
+        "price":  630
+    },
+    {
+       "id": 5,
+        "name": "Arashi Fan",
+        "description": "Name  Arashi Doraemon Fan USB: TYPE B Battery type: LITHIUM Battery capacity: 1800mAh Light Type: LED Endurance: Fan-7hrs, LED-19hrs, Fan+LED: 22W MAX",
+        "image": "https://i.ibb.co.com/CJGcNwd/IMG-2083.webp",
+        "category": "fan",
+        "oldprice" : 1210,
+        "price": 850
+    },
+    {
+       "id": 6,
+        "name": "Baseus Adaman 20000 mAh",
+        "description": "Baseus Power Bank 22.5w 20000Mah Specification:Baseus Adaman Metal Digital Display Quick Charge Power Bank 20000mAh 22.5W 2021 Editon Black PPAD000101",
+        "image": "https://i.ibb.co.com/D1wXynk/IMG-8479.webp",
+        "category": "offer",
+        "oldprice" : 2300,
+        "price": 2150
+    },
+    {
+        "id": 7,
+        "name": "Smart Light",
+        "description": "Input voltage :5V/2A Wireless output :5W-15W(Max) Bluetooth audio power: 5W Material: ABS+PC Product color: White/black Lighting mode: multiple modes of lighting Bluetooth version: 5.3 Transmission distance: 5-10mm Charging efficiency: 75% Working frequency: 50HZ-20KHZ Battery capacity: 500mah Net weight: 280g Product size :150*55*150mm",
+        "image": "https://i.ibb.co.com/mBQ1sYH/IMG-4106.webp",
+        "category": "Watch",
+        "oldprice" : 1700,
+        "price": 1140
+    },
+    {
+       "id": 8,
+        "name": "Mini Lamp",
+        "description": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co.com/7YVPHt6/IMG-6721.webp",
+        "category": "lamp",
+        "oldprice" : 189,
+        "price": 105
+    },
+    {
+       "id": 9,
+        "name": "AirPods Pro 1st gen premium",
+        "description": "Active Noise Cancellation (ANC) Transparency mode Dual optical sensors Motion-detecting accelerometer Speech-detecting accelerometer Force sensor Automatically on, automatically connected Easy setup for all your Apple devices Quick access to Siri by saying “Hey Siri” or setting up double-tap Double-tap to play or skip forward Charges quickly in the case Case can be charged either wirelessly using a Qi-compatible charging mat or with the Lightning connector Rich, high-quality audio and voice Seamless switching between devices Works with Qi-certified chargers or the Lightning connector Compatible with all mobile phones having Bluetooth connectivity",
+        "image": "https://i.ibb.co.com/4FFsTpj/images-9.webp",
+        "category": "offer",
+        "oldprice" : 1300,
+        "price": 1280
+    },
+    {
+       "id": 10,
+        "name": "Mini Keyboard",
+        "description": "Active Noise Cancellation (ANC) Transparency mode Dual optical sensors Motion-detecting accelerometer Speech-detecting accelerometer Force sensor Automatically on, automatically connected Easy setup for all your Apple devices Quick access to Siri by saying “Hey Siri” or setting up double-tap Double-tap to play or skip forward Charges quickly in the case Case can be charged either wirelessly using a Qi-compatible charging mat or with the Lightning connector Rich, high-quality audio and voice Seamless switching between devices Works with Qi-certified chargers or the Lightning connector Compatible with all mobile phones having Bluetooth connectivity",
+        "image": "https://i.ibb.co.com/2yGfsx4/IMG-0925.webp",
+        "category": "airpods",
+        "oldprice" : 100,
+        "price": 80
+    },
+    {
+       "id": 11,
+        "name": "Crystal Galaxy Naptun ball",
+        "description": "Active Noise Cancellation (ANC) Transparency mode Dual optical sensors Motion-detecting accelerometer Speech-detecting accelerometer Force sensor Automatically on, automatically connected Easy setup for all your Apple devices Quick access to Siri by saying “Hey Siri” or setting up double-tap Double-tap to play or skip forward Charges quickly in the case Case can be charged either wirelessly using a Qi-compatible charging mat or with the Lightning connector Rich, high-quality audio and voice Seamless switching between devices Works with Qi-certified chargers or the Lightning connector Compatible with all mobile phones having Bluetooth connectivity",
+        "image": "https://i.ibb.co.com/H4Lw3ty/8182024102215.webp",
+        "category": "airpods",
+        "oldprice" : 380,
+        "price": 280
+    },
+    {
+       "id": 12,
+        "name": "Galaxy Light",
+        "description": "Active Noise Cancellation (ANC) Transparency mode Dual optical sensors Motion-detecting accelerometer Speech-detecting accelerometer Force sensor Automatically on, automatically connected Easy setup for all your Apple devices Quick access to Siri by saying “Hey Siri” or setting up double-tap Double-tap to play or skip forward Charges quickly in the case Case can be charged either wirelessly using a Qi-compatible charging mat or with the Lightning connector Rich, high-quality audio and voice Seamless switching between devices Works with Qi-certified chargers or the Lightning connector Compatible with all mobile phones having Bluetooth connectivity",
+        "image": "https://i.ibb.co.com/pZ1cR0t/images-18.webp",
+        "category": "offer",
+        "oldprice" : 1330,
+        "price": 1240
+    },
+    {
+       "id": 13,
+        "name": "LED Mashroom Lamp",
+        "description": "Active Noise Cancellation (ANC) Transparency mode Dual optical sensors Motion-detecting accelerometer Speech-detecting accelerometer Force sensor Automatically on, automatically connected Easy setup for all your Apple devices Quick access to Siri by saying “Hey Siri” or setting up double-tap Double-tap to play or skip forward Charges quickly in the case Case can be charged either wirelessly using a Qi-compatible charging mat or with the Lightning connector Rich, high-quality audio and voice Seamless switching between devices Works with Qi-certified chargers or the Lightning connector Compatible with all mobile phones having Bluetooth connectivity",
+        "image": "https://i.ibb.co.com/0jQgHMk/IMG-9292.webp",
+        "category": "airpods",
+        "oldprice" : 1900,
+        "price": 1580
+    }
+    
+]
